@@ -1,5 +1,5 @@
 {
-    "name": "torann/currency",
+    "name": "dontastaturo/laravel-currency",
     "description": "This provides Laravel with currency functions such as currency formatting and conversion using up-to-date exchange rates.",
     "keywords": [
         "laravel",
